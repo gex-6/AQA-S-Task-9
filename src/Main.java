@@ -2,7 +2,7 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
-        findFibNumber(5);
+        findFibNumber(13);
     }
 
     private static void findFibNumber(int fibNumber) {
